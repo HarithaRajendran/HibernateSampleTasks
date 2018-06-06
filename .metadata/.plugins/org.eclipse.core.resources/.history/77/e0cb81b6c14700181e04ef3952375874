@@ -1,0 +1,37 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+<link type="text/css" rel="stylesheet"
+	href="${pageContext.request.contextPath}/resources/css/login.css">
+	<link type="text/css" rel="stylesheet"
+	href="${pageContext.request.contextPath}/resources/css/bootstrap.css">
+</head>
+<body>
+
+	<p>Heloooooo</p>
+
+	
+	<div id="id01" class="modal">
+  
+  <form:form class="modal-content animate" action="confirm" modelAttribute="theUser" method="post">
+    <!-- <div class="imgcontainer">
+      <img src="img_avatar2.png" alt="Avatar" class="avatar">
+    </div> -->
+
+    <div class="container">
+      <label for="uname"><b>Email</b></label>
+      <form:input path="email" />
+
+      <label for="password"><b>Password</b></label>
+      <form:input type="password" path="password" />
+        
+      <button type="submit">Login</button>
+     
+    </div>
+  </form:form>
+</div>
+
+</body>
+</html>

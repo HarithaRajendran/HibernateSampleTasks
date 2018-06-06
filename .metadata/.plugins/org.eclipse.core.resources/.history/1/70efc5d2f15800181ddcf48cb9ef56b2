@@ -1,0 +1,7 @@
+package testingPakage;
+
+public class test1Class {
+	void method1() {
+		System.out.println("jkdsfrghkjds");
+	}
+}

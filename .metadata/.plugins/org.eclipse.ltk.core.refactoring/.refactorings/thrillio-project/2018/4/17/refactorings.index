@@ -1,0 +1,20 @@
+1524478090230	Rename package 'com.asagi.thrillio.entity'
+1524481570053	Delete element
+1524482182519	Delete element
+1524547342608	Rename resource 'spring-mvc-crud-demo-servlet.xml'
+1524547956623	Rename resource 'views'
+1524569842959	Encapsulate field 'books'
+1524572129570	Encapsulate field 'users'
+1524574129686	Move 'login.css' to 'css'
+1524575626523	Delete element
+1524575641760	Delete elements
+1524577023570	Move 'login.css' to 'css'
+1524633009808	Delete element
+1524637233089	Rename resource 'confirm.jsp'
+1524652844217	Delete element
+1524653238619	Delete element
+1524747094592	Delete element
+1524747098598	Delete element
+1524811592862	Delete element
+1524813065055	Delete element
+1524828330685	Infer generic type arguments
