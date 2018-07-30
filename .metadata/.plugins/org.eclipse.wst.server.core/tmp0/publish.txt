@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Wed May 16 16:11:37 IST 2018
-org.eclipse.jst.jee.server\:/binary\:/home/at/eclipse-workspace/HibernateProject/thrillio-project22/WebContent/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:/home/at/eclipse-workspace/HibernateProject/thrillio-project22/WebContent/WEB-INF/lib/spring-web-5.0.4.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE-sources.jar
+#Mon Jul 16 11:29:53 IST 2018
+org.eclipse.jst.jee.server\:/binary\:/home/at/eclipse-workspace/HibernateProject/thrillio-project289/WebContent/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/at/eclipse-workspace/HibernateProject/thrillio-project289/WebContent/WEB-INF/lib/spring-web-5.0.4.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE-sources.jar
